@@ -1,4 +1,4 @@
-# A 3D Model Browser Based on OpenGL
+# A 3D Model Browser Based on OpenGL（author：byy）
 ## Brief Introduction
 - Final Project of ZJU OOP course (Prof. Jijun Li)
 - A 3D Model Browser based on OpenGL and ImGui.
